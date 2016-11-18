@@ -1,9 +1,5 @@
 # Spaghetti Bolognese
 
-## Combines With
-
-This dish can be combined with tomato soup and bread for an excellent and tasty experience.
-
 ## Ingredients
 
 - 1 tbsp olive oil
